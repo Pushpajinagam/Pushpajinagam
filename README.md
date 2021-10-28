@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Pushpajinagam
-- 👀 I’m current learning Coding basics
-- 📫 I'm a Tester
+
 
 
 <!---
